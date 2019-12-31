@@ -7,7 +7,8 @@
       <div class="sui-navbar">
         <div class="navbar-inner">
           <a href="/" class="sui-brand">
-            <img src="~/assets/img/asset-logo-black.png" alt="社交" />
+            <!-- <img src="~/assets/img/asset-logo-black.png" alt="社交" /> -->
+            <img src="~/assets/img/logo.png" style="width:150px" alt="社交" />
           </a>
           <ul class="sui-nav">
             <router-link tag="li" to="/" active-class="active" exact>
